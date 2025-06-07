@@ -1,0 +1,5 @@
+/.vscode
+/csv_files
+/INSERT INTO job_applied.sql
+/sql_course.session.sql
+/subqueries.sql
